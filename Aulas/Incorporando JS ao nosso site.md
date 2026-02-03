@@ -18,4 +18,4 @@
   
 -> O javascript é executado de forma linear : a primeira linha é executada e só depois as subsequentes
 
--> É possível escrever na consola, escrever e declarar variáveis, isso oferece flexibilidade ao testar e depurar códigos
+-> É possível escrever na consola, escrever e declarar variáveis, isso oferece flexibilidade ao testar e depurar codigos.
