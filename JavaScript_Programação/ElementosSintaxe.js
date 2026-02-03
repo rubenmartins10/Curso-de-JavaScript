@@ -26,9 +26,9 @@ function mensagem2() {
     console.log("Olá, " + nomes);
 }
 
-nomes.forEach(function(valor)) { //coletamos o valor individual em cada iteração do forEach
+nomes.forEach(function(valor) { //coletamos o valor individual em cada iteração do forEach
     mensagem2(valor);
-};
+});
 /* neste caso, o forEach está iterando 
 sobre cada elemento do array "nomes" e chamando 
 a função mensagem2 para cada nome individualmente.
